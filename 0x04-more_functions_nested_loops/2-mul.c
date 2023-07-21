@@ -6,7 +6,7 @@
  * @a: first input
  * @b: scond input
  *
- * Retur: return results
+ * Return: return results
 */
 
 int mul(int a, int b)
